@@ -20,7 +20,7 @@ I'm a young Brazilian student and tech enthusiast
   </a>
 </p>
 
-<h2 align="center">Technologies :man_technologist:</h2>
+<h2 align="center">Technologies 💻</h2>
 
 <p align="center">
   <a>
