@@ -1,9 +1,13 @@
 <h2 align="center">About me 👨🏻‍💻 </h2>
 
-<p align="center">
-Hello, welcome to my Github profile!
-<p align="center">
-I'm a young Brazilian student and tech enthusiast
+<h2 align="center"> Hello, welcome to my github profile!  <p align="center">
+<h4 align="center">
+  
+Currently, I am studying to be an excellent professional in the world of technology when it comes to Python/RPA automation, mobile development, QA, electronics, embedded systems, machine learning and front-end. 
+
+I also really like the commercial side of business, sales and also advertising such as marketing, graphic design and audiovisual production. In the future, I intend to merge most of the three worlds to offer the best solutions, experiences that can deliver the best possible results for users.
+
+
 
 </p>
 
