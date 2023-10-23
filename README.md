@@ -44,11 +44,10 @@ I'm a young Brazilian student and tech enthusiast
 
 <h4 align="center">Langs ⚛️:</h4>
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hds100&langs_count=10&theme=tokyonight&layout=compact" alt="hds100" :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hds100&layout=donut&theme=radical" alt="hds100" :: Top Langs" /></p>
 
 <h4 align="center">Profile stats 📊:</h4>
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hds100&show_icons=true&theme=cobalt" alt="hds100" :: Profile Stats" /></p>
 
 <p align="center"><img src="https://tenor.com/pt-BR/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236.gif" alt="Matrix" height="300" width="500"></p>
-
