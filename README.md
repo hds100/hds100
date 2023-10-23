@@ -44,7 +44,7 @@ I'm a young Brazilian student and tech enthusiast
 
 <h4 align="center">Langs ⚛️:</h4>
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hds100&langs_count=10&theme=tokyonight&layout=compact" alt="hds100 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hds100&langs_count=10&theme=tokyonight&layout=compact" alt="hds100" :: Top Langs" /></p>
 
 <h4 align="center">Profile stats 📊:</h4>
 
