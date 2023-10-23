@@ -42,7 +42,7 @@ I'm a young Brazilian student and tech enthusiast
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hds100}/count.svg" alt="hds100 :: Visitor's Count" /></p>
 
-<h4 align="center">Langs ⚛️:</h4>
+<h4 align="center">Langs 🛠️:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hds100&layout=donut&theme=radical" alt="hds100" :: Top Langs" /></p>
 
