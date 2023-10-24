@@ -7,6 +7,8 @@
 
 **I also really like the commercial side of business, sales and also advertising such as marketing, graphic design and audiovisual production. In the future, I intend to merge most of the three worlds to offer the best solutions, experiences that can deliver the best possible results for users.**
 
+(If the cards don't show anything, just refresh the page)
+
 
 </p>
 
