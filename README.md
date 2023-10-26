@@ -3,9 +3,11 @@
 <h2 align="center"> Hello, welcome to my github profile!  <p align="center">
   
   
-**Currently, I'm studying to be an excellent professional in the world of technology when it comes to Python/RPA automation, mobile development, QA, electronics, embedded systems and front-end.**
+**I am currently studying to become an excellent professional, mainly in the area of automation, software quality and front-end web development and also looking for my first job opportunity.**
 
-**I also really like the commercial side of business, sales and also advertising such as marketing, graphic design and audiovisual production. In the future, I intend to merge most of the three worlds to offer the best solutions, experiences that can deliver the best possible results for users.**
+**Among the technologies I currently study are: Python/RPA, Wordpress, MySQL, Arduino and QA. As soon as I manage to reach a good level of knowledge in these technologies, I will study technologies that will certainly complement my skills, especially in the areas of QA, automation and front-end.**
+
+**I also like the commercial and business area, because the IT area does not advance if the areas related to the customer and sales are not on the board.**
 
 (If the cards don't show anything, just refresh this page)
 
