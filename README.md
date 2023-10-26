@@ -12,12 +12,10 @@
 
 </p>
 
-<h2 align="center">Contact Me 💼:</h2>
-
-<p align="center">
+<h2 align="center">Contact Me 💼:</h2>  <p align="center">
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-8ab801284/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="João Pedro H. LinkedIn Profile" height="30" width="30">
+  <p align="center"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="João Pedro H. LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="workph@protonmail.com/">
@@ -45,6 +43,15 @@
   </a>
   
 </p>
+
+<h2 align="center">Courses 📚</h2>
+
+<div align="center">
+
+[<img src="https://hermes.dio.me/tracks/46ac522b-ff3e-4f73-b473-cfe634c26dac.png" height="50"/></a>](https://www.dio.me/certificate/7FFA4F22/share)
+[<img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="50"/></a>](https://www.dio.me/certificate/406E8C52/share)
+
+</div>
 
 <h2 align="center">Stats :bar_chart:</h2>
 
