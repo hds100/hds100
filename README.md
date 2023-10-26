@@ -39,6 +39,11 @@
   <a>
     <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
   </a>
+
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
+  </a>
+  
 </p>
 
 <h2 align="center">Stats :bar_chart:</h2>
