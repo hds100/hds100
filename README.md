@@ -5,7 +5,7 @@
   
 **I am currently studying to become an excellent professional, mainly in the area of automation, software quality and front-end web development and also looking for my first job opportunity.**
 
-**Among the technologies I currently study are: Python/RPA, Wordpress, MySQL, Arduino and QA. As soon as I manage to reach a good level of knowledge in these technologies, I will study technologies that will certainly complement my skills, especially in the areas of QA, automation and front-end.**
+**Among the technologies I currently study are: Python/RPA, Wordpress, MySQL, Arduino and QA area. As soon as I manage to reach a good level of knowledge in these technologies, I will study technologies that will certainly complement my skills, especially in the areas of QA, automation and front-end.**
 
 **I also like the commercial and business area, because the IT area does not advance if the areas related to the customer and sales are not on the board.**
 
