@@ -52,6 +52,7 @@
 
 [<img src="https://hermes.dio.me/tracks/46ac522b-ff3e-4f73-b473-cfe634c26dac.png" height="50"/></a>](https://www.dio.me/certificate/7FFA4F22/share)
 [<img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="50"/></a>](https://www.dio.me/certificate/406E8C52/share)
+[<img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" height="50"/></a>](https://www.dio.me/certificate/2E6DBB78/share)
 
 </div>
 
