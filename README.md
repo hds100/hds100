@@ -27,24 +27,15 @@
 
 <h2 align="center">Technologies 💻</h2>
 
-<p align="center">
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-  </a>
-
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  </a>
-
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
-  </a>
-
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
-  </a>
+<div align="center">
   
-</p>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="55"/></a>
+
+</div>
 
 <h2 align="center">Courses 📚</h2>
 
