@@ -14,16 +14,15 @@
 
 </p>
 
-<h2 align="center">Contact Me 💼:</h2>  <p align="center">
+<h2 align="center">Contact Me 💼:</h2>  
 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-h-da-silva-8ab801284/">
-  <p align="center"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="João Pedro H. LinkedIn Profile" height="30" width="30">
-  </a>
+  <div align="center">
+    
+  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30"/></a>](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-da-silva-8ab801284/)
+  [<img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" height="30"/></a>](https://proton.me/mail)
 
-  <a href="workph@protonmail.com/">
-    <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" alt="João Pedro H. Protonmail Contact" height="30" width="30">
-  </a>
-</p>
+
+</div>
 
 <h2 align="center">Technologies 💻</h2>
 
@@ -33,7 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="55"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="55"/>
 
 </div>
 
