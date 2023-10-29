@@ -16,7 +16,7 @@
 
 <h2 align="center">Contact Me 💼:</h2>  <p align="center">
 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-8ab801284/">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-h-da-silva-8ab801284/">
   <p align="center"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="João Pedro H. LinkedIn Profile" height="30" width="30">
   </a>
 
