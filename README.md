@@ -1,18 +1,16 @@
 <h2 align="center">About me 👨🏻‍💻 </h2>
 
-<h2 align="center"> Hello, welcome to my github profile!  <p align="center">
+<div align="center">
   
-  
-**I am currently studying to become an excellent professional, mainly in the area of automation, software quality and front-end web development and also looking for my first job opportunity.**
+**Hello, welcome to my github profile!**
 
-**Among the technologies I currently study are: Python/RPA, Wordpress, MySQL, Arduino and QA area. As soon as I manage to reach a good level of knowledge in these technologies, I will study technologies that will certainly complement my skills, especially in the areas of QA, automation and front-end.**
+**I currently study and work with technologies focused on automation, quality and software development, including: Arduino, Python with RPA, Selenium, MySQL and C/C++. I also study Wordpress, because I like the area of graphic design and web design. In the future I intend to learn additional skills and refine the ones I already have.**
 
-**I also like the commercial and business area, because the IT area does not advance if the areas related to the customer and sales are not on the board.**
+**I look for opportunities in the area to develop myself professionally and deliver the best possible results.**
 
-(If the cards don't show anything, just refresh this page)
+**(If the cards don't show anything, just refresh this page)**
 
-
-</p>
+</div>
 
 <h2 align="center">Contact Me 💼:</h2>  
 
