@@ -8,7 +8,7 @@
 
 **I look for opportunities in the area to develop myself professionally and deliver the best possible results.**
 
-**(If the cards don't show anything, just refresh this page)**
+**----------> (If the cards don't show anything, just refresh this page) <----------**
 
 </div>
 
