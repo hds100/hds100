@@ -31,6 +31,7 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="55"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8001/8001983.png" height="55"/>
 
 </div>
 
