@@ -26,7 +26,6 @@
 
 <div align="center">
   
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/>
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"/>
