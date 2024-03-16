@@ -4,9 +4,8 @@
   
 **Hello, welcome to my github profile!**
 
-**I currently study and work with technologies focused on automation, quality and software development, including: Arduino, Python with RPA, Selenium, MySQL and C/C++. I also study Wordpress, because I like the area of graphic design and web design. In the future I intend to learn additional skills and refine the ones I already have.**
+**I am just another enthusiast of the world of technology and I do some projects as a hobby. If you want to contact me or see some of my articles, below is my social networks.**
 
-**I look for opportunities in the area to develop myself professionally and deliver the best possible results.**
 
 **----------> (If the cards don't show anything, just refresh this page) <----------**
 
