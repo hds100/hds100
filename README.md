@@ -26,11 +26,11 @@
 
 <div align="center">
   
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/>
-<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.png" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/8001/8001983.png" height="55" hspace="30"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8001/8001983.png" height="50" hspace="30"/>
 
 </div>
 
