@@ -11,7 +11,7 @@
 
 </div>
 
-<h2 align="center">Contact Me 💼:</h2>  
+<h2 align="center">Contact Me/Articles 💼:</h2>  
 
   <div align="center">
     
