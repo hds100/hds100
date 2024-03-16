@@ -18,6 +18,7 @@
     
   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30"/></a>](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-8ab801284/)
   [<img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" height="30"/></a>](https://proton.me/mail)
+  [<img src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" height="30"/></a>](https://hstech11.medium.com/)
 
 
 </div>
