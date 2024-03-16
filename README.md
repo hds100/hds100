@@ -16,7 +16,7 @@
 
   <div align="center">
     
-  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30"/></a>](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-da-silva-8ab801284/)
+  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30"/></a>](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-8ab801284/)
   [<img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" height="30"/></a>](https://proton.me/mail)
 
 
