@@ -53,6 +53,8 @@ About me 👨🏻‍💻 </h2>
 
 <h2 align="center">Stats :bar_chart:</h2>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hds100&column=8&theme=darkhub&no-frame=true&no-bg=true" width="800" href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus"/></p>
+
 <h4 align="center"> Visitors count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hds100}/count.svg" alt="hds100 :: Visitor's Count" /></p>
