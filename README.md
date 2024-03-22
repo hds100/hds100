@@ -67,7 +67,7 @@ About me 👨🏻‍💻 </h2>
 
 <div align="center"> 
   
-![hds100 Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hds100&theme=2077)
+![hds100 Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hds100&theme=github_dark)
 
 <div align="center"> 
   
