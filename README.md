@@ -44,8 +44,8 @@ About me 👨🏻‍💻 </h2>
 [<img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="50"/></a>](https://www.dio.me/certificate/406E8C52/share)
 [<img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" height="50"/></a>](https://www.dio.me/certificate/2E6DBB78/share)
 [<img src="https://hermes.dio.me/tracks/c18d5f71-9ffa-495f-99ea-a7d564bd93ca.png" height="50"/></a>](https://www.dio.me/certificate/48A6C156/share)
-[<img src="https://logopng.com.br/logos/google-37.png" height="50"/></a>](https://www.coursera.org/account/accomplishments/verify/PSPU3425446T)
-[<img src="https://seeklogo.com/images/I/ita-instituto-tecnologico-de-aeronautica-logo-2B34B5CC64-seeklogo.com.png" height="50"/></a>](https://www.coursera.org/account/accomplishments/professional-cert/ULXME4SCKNSV)
+[<img src="https://logopng.com.br/logos/google-37.png" height="50"/></a>](https://www.coursera.org/account/accomplishments/professional-cert/ULXME4SCKNSV)
+[<img src="https://seeklogo.com/images/I/ita-instituto-tecnologico-de-aeronautica-logo-2B34B5CC64-seeklogo.com.png" height="50"/></a>](https://www.coursera.org/account/accomplishments/verify/MQH5GV8GAXCC)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_University_shield.png/800px-Harvard_University_shield.png" height="50"/></a>](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-9120437/course-84414-lvanz.pdf)
 
 
